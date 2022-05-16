@@ -26,6 +26,7 @@ body
     height: 500px;
     /* float: left; */
     background: #505050;
+    float: left;
 
 }
 
@@ -33,7 +34,7 @@ body
 {
     width: 80%;
     height: 500px;
-    float: left;
+    background: #454545;
 }
 
 li 
